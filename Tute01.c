@@ -5,6 +5,9 @@
 #include <stdio.h>
 
 int main() {
+  int b,c;
+  printf("Enter marks");
+  scanf ("%d",&b);
   
   return 0;
 }
